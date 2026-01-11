@@ -1,5 +1,5 @@
 # Desain Figma Smart App Aquaculture
-Link Figma High Fidelity : https://www.figma.com/design/HrD9DUBxa3wY8k8kyggjcA/High-Fidelity---Aplikasi-Sadewa-SmartFarm?node-id=0-1&t=bLOjM4lI8JK7XekC-1
+Link Figma : https://www.figma.com/design/HrD9DUBxa3wY8k8kyggjcA/High-Fidelity---Aplikasi-Sadewa-SmartFarm?node-id=0-1&t=bLOjM4lI8JK7XekC-1
 
 # Tools & Teknologi
 
@@ -133,8 +133,6 @@ Hasilnya akan menampilkan IP lokal seperti:
 ```
 
 ## Demo Aplikasi Sadewa SmartFarm
-
-Link : https://drive.google.com/file/d/1akyf0TUGt9GOMqQclR330VK4K0ysUqes/view?usp=sharing
 
 Pengguna dapat mengakases aplikasi dengan Root User sebagai berikut:
 
